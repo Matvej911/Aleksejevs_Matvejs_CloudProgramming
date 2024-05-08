@@ -18,6 +18,8 @@ The project focuses on creating a scalable and fault-tolerant infrastructure by 
 
 ## Architecture Diagram
 
+![Screenshot 2024-05-08 085618](https://github.com/Matvej911/Aleksejevs_Matvejs_CloudProgramming/assets/72816648/77057af0-7802-48f0-9160-cfcdf438e4c1)
+
 ## Getting Started
 
 To deploy the high availability infrastructure on AWS using Terraform:
