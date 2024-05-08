@@ -70,6 +70,7 @@ terraform apply
 to provision the infrastructure on AWS.
 
 10. After successful deployment, go to your AWS account search Load Balancers, copy domain and opne it in your browser.
+![Screenshot 2024-05-08 112932](https://github.com/Matvej911/Aleksejevs_Matvejs_CloudProgramming/assets/72816648/8c1562e4-4b38-4311-9b57-ba2ceb1f7559)
 
 ## Conclusion
 
