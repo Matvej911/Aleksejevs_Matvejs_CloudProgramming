@@ -18,7 +18,7 @@ The project focuses on creating a scalable and fault-tolerant infrastructure by 
 
 ## Architecture Diagram
 
-![Screenshot 2024-05-08 085618](https://github.com/Matvej911/Aleksejevs_Matvejs_CloudProgramming/assets/72816648/77057af0-7802-48f0-9160-cfcdf438e4c1)
+![illustration](https://github.com/Matvej911/Aleksejevs_Matvejs_CloudProgramming/assets/72816648/4d8e6f59-b27b-4669-8076-dcc60f1d0499)
 
 ## Getting Started
 
