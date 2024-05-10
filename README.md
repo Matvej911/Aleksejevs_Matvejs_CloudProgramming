@@ -60,7 +60,7 @@ terraform plan
 ```
 
 to preview the changes that will be applied.
-![Screenshot 2024-05-08 112203](https://github.com/Matvej911/Aleksejevs_Matvejs_CloudProgramming/assets/72816648/cdfcc3fc-38dc-42fa-998a-aa14269b7ee1)
+![Screenshot 2024-05-10 140623](https://github.com/Matvej911/Aleksejevs_Matvejs_CloudProgramming/assets/72816648/c0f18ce0-e846-4854-8a58-9da595ded060)
 
 9. Run
 
